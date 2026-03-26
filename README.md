@@ -1,4 +1,5 @@
-# -Customer-churn-analysis-using-Python-EDA-insights- 1. Business Problem
+# -Customer-churn-analysis-using-Python-EDA-insights- 
+1. Business Problem
 Customer churn presents a significant hurdle for businesses reliant on subscriptions. The primary objective of this analysis is to understand the reasons behind customer departures and to identify patterns that can help mitigate this churn.
 2. Dataset Overview
 The analysis utilises the WA_Fn-UseC_-Telco-Customer-Churn.csv dataset. This dataset comprises information on customer demographics, the services they subscribe to, their account details, and crucially, whether they have churned.
